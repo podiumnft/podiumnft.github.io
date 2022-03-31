@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Noteworthy";
+    src: url('noteworthy/noteworthy.eot'); /* IE9 Compat Modes */
+    src: url('noteworthy/noteworthy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('noteworthy/noteworthy.woff2') format('woff2'), /* Super Modern Browsers */
+         url('noteworthy/noteworthy.woff') format('woff'), /* Pretty Modern Browsers */
+         url('noteworthy/noteworthy.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('noteworthy/noteworthy.svg#svgFontName') format('svg'); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: "Nabana";
+    src: url('nabana/nabana.eot'); /* IE9 Compat Modes */
+    src: url('nabana/nabana.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('nabana/nabana.woff2') format('woff2'), /* Super Modern Browsers */
+         url('nabana/nabana.woff') format('woff'), /* Pretty Modern Browsers */
+         url('nabana/nabana.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('nabana/nabana.svg#svgFontName') format('svg'); /* Legacy iOS */
+  }
