@@ -852,6 +852,9 @@ nav a {
     display: block;
     height: 10%;
   }
+  text-block-17{
+    margin-botton: 2%;
+  }
   .body{
     overflow-x: hidden;
     margin: 0;
