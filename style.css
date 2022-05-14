@@ -10,7 +10,7 @@
   overflow: visible;
   border-top: 1px none #000;
   /* background-color: #FFF5EB; */
-  background-image: url(images/mainWebsite.png);
+  background-image: url(images/yy.png);
     background-repeat: no-repeat;
   background-position: center;
     background-size: cover;
@@ -897,7 +897,7 @@ nav a {
       align-items: center;
       padding-top: 5%;
       margin: -20px 0 0 50px;
-      padding-top: 10%;
+      padding-top: 9%;
     }
   .primary-navigation[data-visible="true"] {
     transform: translateX(0%);
